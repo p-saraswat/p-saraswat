@@ -17,9 +17,9 @@
 
 
 ### :man_technologist: About Me :
-I am an AI/ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Data Science/ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-:telescope: At present, I’m working as a Business Data Analyst with an Energy Distributor to build analytical solutions & tools to improve customer satisfaction and savings
+:telescope: I’m working as a Business Data Analyst with an Energy Distributor to improve customer satisfaction and savings through advanced analytics
 
 :seedling: Learning advanced dashboarding skills in Power BI, and Technical content writing.
 
