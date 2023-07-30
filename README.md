@@ -51,6 +51,6 @@ I am a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
 ### 🔥 Some Stats
 #### **Note: Recently moved Github from University to Public, stats are messed up**
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=p-saraswat&show_icons=true&theme=vue)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=p-saraswat&show_icons=true&theme=vue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-saraswat&hide=html&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
